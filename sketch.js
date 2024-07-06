@@ -1,6 +1,6 @@
 //Rivan Faitulloh
 function setup() {
-  createCanvas(800, 800, WEBGL);
+  createCanvas(630, 360, WEBGL);
 }
 function preload(){
   bumi = loadImage('bumi.jpg');
